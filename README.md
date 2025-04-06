@@ -1,2 +1,4 @@
-# randomgames
-school "project"
+# Getting started
+```sh
+python main.py
+```
